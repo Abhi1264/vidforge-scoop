@@ -5,11 +5,11 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Abhi1264/vidforge/releases/download/v1.4.0/vidforge_1.4.0_windows_amd64.zip",
+      "url": "https://github.com/Abhi1264/vidforge/releases/download/v1.4.2/vidforge_1.4.2_windows_amd64.zip",
       "bin": "vidforge.exe"
     },
     "arm64": {
-      "url": "https://github.com/Abhi1264/vidforge/releases/download/v1.4.0/vidforge_1.4.0_windows_arm64.zip",
+      "url": "https://github.com/Abhi1264/vidforge/releases/download/v1.4.2/vidforge_1.4.2_windows_arm64.zip",
       "bin": "vidforge.exe"
     }
   }
